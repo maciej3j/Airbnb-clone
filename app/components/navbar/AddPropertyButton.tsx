@@ -1,6 +1,8 @@
 const AddPropertyButton = () => {
     return (
-        <p>Coscos</p>
+        <div className="p-2 text-sm font-semibold rounded-full hover:bg-gray-200">
+            Djangobnb your home
+        </div>
     )
 }
 
