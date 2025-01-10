@@ -1,6 +1,13 @@
+import PropertyListItem from "./PropertyListItem";
+
 const PropertyList = () => {
     return (
-        <p> bla bla</p>
+        <>        
+        <PropertyListItem/>
+        <PropertyListItem/>
+        <PropertyListItem/>
+        </>
+
     )
 }
 
